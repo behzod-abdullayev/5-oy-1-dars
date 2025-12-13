@@ -1,0 +1,38 @@
+[
+  {
+    "coment": "bu gap json faylda coment yozib bolmagani uchun shunday yozilgan. parollar username bilan birxil masalan (donyorni paroli donyor, behzodning paroli behzod)"
+  },
+
+
+
+
+  
+  {
+    "id": "21302d21-1ea7-4b87-a6e2-104e3792f692",
+    "username": "ali",
+    "email": "ali@gmail.com",
+    "role": "user",
+    "password": "$2b$12$zl3X802tXKGtzuhwOVLxdeaM1.Cm3FSWMQS3.jploOcYXzCQEHiN6"
+  },
+  {
+    "id": "26be05ee-479c-4708-8a4d-457f04e36f1b",
+    "username": "behzod",
+    "email": "behzod@gmail.com",
+    "role": "user",
+    "password": "$2b$12$GiBTZPna7B3k2crHQ5sTgeY5r9427X9swfE65dJPICUZPDwWLtdMu"
+  },
+  {
+    "id": "ee3e1bc8-79a3-4d23-91f0-963b1eeb95e0",
+    "username": "donyor",
+    "email": "donyor@gmail.com",
+    "role": "user",
+    "password": "$2b$12$lvxsuSELq1QenJjJHUrbNubtZdQf..m56tufA9mZ8VHysrd26P11S"
+  },
+  {
+    "id": "5c6488c4-7243-4930-acfc-31248cd2e761",
+    "username": "aziz",
+    "email": "aziz@gmail.com",
+    "role": "user",
+    "password": "$2b$12$FvV0KymWTHFayPleGk4EMOxSPR6pcHjAKUiSGZPCVKjlTa0NWbko."
+  }
+]
